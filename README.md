@@ -1,7 +1,7 @@
 # youtubeDownloader
 
 1. Install all packages given in the code.
-2. run "python youtubeDWLDR.py" in your pc.
+2. run "python youtubeDWLDR.py" in your pc command prompt.
 3. User can paste playlist link or video link in the link textfield.
 
 
